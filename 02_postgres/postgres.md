@@ -1,3 +1,5 @@
+sudo -i -u postgres
+psql
 
 Alright, since you want to allow connections from **any IP**, here’s exactly what to do with `vim`. I’ll assume Ubuntu + Postgres 14 default paths.
 

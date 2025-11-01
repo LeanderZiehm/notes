@@ -77,7 +77,7 @@ curl -i http://localhost:5002 : Bookmarks
 curl -i http://localhost:5004 : timetrack.leanderziehm.com
 curl -i http://localhost:5005 : Webhooks  ??? 
 curl -i http://localhost:5006 : TTS-hub
-curl -i http://localhost:5007 : notes
+curl -i http://localhost:50072 : notes
 curl -i http://localhost:5008 : pdf-web-app ?
 curl -i http://localhost:5009 : mindmap ? 
 curl -i http://localhost:5010 : lovelingo 
