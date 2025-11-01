@@ -7,6 +7,19 @@
 | Ctrl + W | Close Tab |
 | Ctrl + . | Quick Fix |
 | Ctrl + K then V` | Open Markdown Preview |
+| Ctrl + Alt + R | Open Folder |
+| Ctrl + ||
+| Ctrl + ||
+| Ctrl + ||
+| Ctrl + ||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
 
 # Extensions
 

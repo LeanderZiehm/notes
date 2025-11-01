@@ -1,3 +1,72 @@
+# check if port is availabe or already in use
+sudo ss -tuln | grep :80
+
+
+# Stop Process
+pgrep dmenu
+
+
+
+# Find
+
+find . -type d -name "__pycache__" -print
+find . -type d -name "__pycache__" -exec rm -r {} +
+
+
+
+tmux
+
+split screen vertical
+Ctrl+b then %
+
+
+Ctrl+b then o
+
+Ctrl+b then ← →
+
+# File Manager: Yazi
+yazi
+
+
+
+
+# iptables
+
+sudo iptables-save > iptab
+vim iptab
+sudo iptables-restore < iptab
+
+
+
+
+
+
+# Tmux
+
+`Ctrl+b` followed by `s`. tabbing between sessions
+
+Ctrl+b` (backtick)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+whoami
+ifconfig
+sshd
+
+
+#
+
 Open Home Filenamager	Super (Windows Key) + E	Opens the file explorer (Nautilus on GNOME).
 
 
@@ -59,3 +128,32 @@ source ~/.bashrc
 kdeconnect-cli --list-devices
 
 kdeconnect-cli --device a1b2c3d4e5f6g7h8 --send /path/to/your/file.txt
+
+
+
+
+
+
+
+
+
+
+
+# ZSH
+Extensions:
+
+
+
+
+# fish
+nice for quick edits but not compatible with posix
+
+
+
+
+# Bash
+
+|Keys|Description|
+|--|--|
+|Ctrl + R |reverse search|
+
