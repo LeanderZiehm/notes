@@ -7,7 +7,11 @@ kill service to test fault tolerance of system.
 database optimizations.
 
 
+reddis for cashing
 
+Kafka, rabbitmq 
+
+real time systems 
 
 how does one get cracked?
 what should I learn? 
