@@ -1,6 +1,8 @@
 
 encryption of files so secrets don't get seen by everyone 
 
+Https, jwt
+
 
 java spring boot:
 beans
