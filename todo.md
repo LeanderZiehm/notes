@@ -1,4 +1,7 @@
 
+encryption of files so secrets don't get seen by everyone 
+
+
 java spring boot:
 beans
 openapi
