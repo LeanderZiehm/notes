@@ -1,5 +1,35 @@
 
 
+# BLOG:
+# YOUTUBE CHANNEL:
+
+Spring Boot Docker, Kubernetes.
+
+
+
+
+
+
+
+curl to file output and unzip directly (spring boot init)
+
+
+
+
+
+
+
+
+
+
+java sp
+
+consumer driven contract develoment
+
+
+
+
+
 test loadbalencing
 
 kill service to test fault tolerance of system.
