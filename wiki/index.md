@@ -5,7 +5,8 @@ hello this is my wiki
 
 [powerpoint](./presentations/powerpoint.md)
 
-
+# Concepts
+- [compression](./concepts/compression.md) 
 
 # Linux 
 
@@ -49,7 +50,6 @@ hello this is my wiki
 
 du
 
-#### Compression
 
 
 
@@ -61,6 +61,6 @@ du
 
 # Editors
 
-1. [editors/vscode](editors/vscode.md)
+1. [vscode](./editors/vscode.md)
 2. [vim](./linux/terminal/cli_tools/vim.md)
 
